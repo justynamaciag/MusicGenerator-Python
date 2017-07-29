@@ -1,4 +1,4 @@
-#Program for creating music
+#MusicGenerator-Python
 
 Program written with use of miditime library.
 Allows to generate music coming both from Fibonacci strain and growing factorial values.
